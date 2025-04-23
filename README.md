@@ -51,7 +51,6 @@
 
 静けさと共にある1日を。  
 Happy Snailmas to all the magical mollusks out there. 🐌✨
-# snailmas
 
 ---
 

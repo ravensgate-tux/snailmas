@@ -52,3 +52,8 @@
 静けさと共にある1日を。  
 Happy Snailmas to all the magical mollusks out there. 🐌✨
 # snailmas
+
+---
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。

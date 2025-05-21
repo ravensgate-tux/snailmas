@@ -1,8 +1,8 @@
 # 🐌 Snailmas: カタツムリの祝祭（4月22日・アースデイ）
 
 ## 🌏 概要
-**Snailmas（スネイルマス）**は、Open Source Witchcraft において、
-**TUX（Theurgic User eXperience）**ことカタツムリのマスコットと共に祝う、
+Snailmas（スネイルマス）は、Open Source Witchcraft において、
+TUX（Theurgic User eXperience）ことカタツムリのマスコットと共に祝う、
 静けさと変容の祝祭です。
 
 この日は「アースデイ（4月22日）」でもあり、
